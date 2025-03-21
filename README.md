@@ -23,5 +23,12 @@
 - Installing libraries with Pipenv
 - Runnning things with Pipenv
 
-- Cloud Deployments
+#### - Enviroment Management: Docker
+- Why we need Docker
+- Running a python image with docker
+- Dockerfile
+- Building a docker image
+- Running a docker image
+
+#### - Deployment to the cloud: AWS & Azure
   
