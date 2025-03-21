@@ -1,1 +1,1 @@
-# MLOps ZoomCamp
+# MLOps/LLMOps
